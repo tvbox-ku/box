@@ -2,7 +2,7 @@
 //本人无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
 
 {
-	"spider": "https://gitee.com/tvbox-ku/ysc/raw/master/lib/Yoursmile/jar/Yoursmile.jar;md5;92ABED5A8CF3AC8868A8767F39E501F3",
+	"spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvbox-ku/box/main/lib/jar/Yoursmile.jar;md5;92ABED5A8CF3AC8868A8767F39E501F3",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"sites":[
 {"key":"csp_DouDou","name":"🔍豆瓣┃接口免费,请勿售卖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
