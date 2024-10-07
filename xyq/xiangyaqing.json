@@ -6,15 +6,7 @@
       "name": "IPTV201",
       "type": "0",
       "pass": true,
-      "url": "https://gitee.com/hans89/box/raw/master/tv/IPTV-01",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "IPTV202",
-      "type": "0",
-      "pass": true,
-      "url": "https://raw.githubusercontent.com/tvbox-ku/box/refs/heads/main/tv/IPTV202",
+      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
