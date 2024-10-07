@@ -3,18 +3,18 @@
   "spider": "./jar/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
   "lives": [
     {
-      "name": "本地live文件",
+      "name": "IPTV201",
       "type": "0",
       "pass": true,
-      "url": "http://127.0.0.1:9978/file/XYQTVBox/live.txt",
+      "url": "./tv/IPTV201",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "FMM_IPV6",
+      "name": "IPTV202",
       "type": "0",
       "pass": true,
-      "url": "./lib/fmml_ipv6.txt",
+      "url": "./tv/IPTV202",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
