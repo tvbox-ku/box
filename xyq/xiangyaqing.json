@@ -6,7 +6,7 @@
       "name": "IPTV201",
       "type": "0",
       "pass": true,
-      "url": "proxy://do=live&type=txt&ext=https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvbox-ku/box/refs/heads/main/tv/IPTV201",
+      "url": "https://gitee.com/hans89/box/raw/master/tv/IPTV-01",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
