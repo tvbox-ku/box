@@ -6,7 +6,7 @@
       "name": "IPTV201",
       "type": "0",
       "pass": true,
-      "url": "./tv/IPTV201",
+      "url": "./box/tv/IPTV201",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -14,7 +14,7 @@
       "name": "IPTV202",
       "type": "0",
       "pass": true,
-      "url": "./tv/IPTV202",
+      "url": "./box/tv/IPTV202",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
