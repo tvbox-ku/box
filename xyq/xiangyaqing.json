@@ -3,10 +3,10 @@
   "spider": "./jar/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b",
   "lives": [
     {
-      "name": "IPTV201",
+      "name": "IPTV203",
       "type": "0",
       "pass": true,
-      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
+      "url": "https://jihulab.com/hans89/mybox/-/raw/main/tv/IPTV203",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
