@@ -1,6 +1,6 @@
 {
 //爬虫
-"spider":"./jar/xBPQ1107.jar",
+"spider":"./xbpq.jar",
 
 //壁纸
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
