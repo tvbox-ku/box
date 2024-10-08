@@ -39,6 +39,16 @@
         "json": "./lib/bilibili.json",
         "cookie": ""
       }
+     },
+    {
+       "key": "csp_Lgyy",
+       "name": "🌀蓝光┃直连",
+       "type": 3,
+       "api": "csp_Lgyy",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": "https://www.lgyy.vip"
     },
     {
       "key": "hipy_js_金牌影院",
