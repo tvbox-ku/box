@@ -1,9 +1,9 @@
 {
-  "spider": "./fty.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93",
+  "spider": "./fty/fty.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆豆",
+      "key": "豆瓣",
       "name": "🅱豆瓣┃推荐",
       "type": 3,
       "api": "csp_DouDou",
