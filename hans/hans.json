@@ -13,7 +13,7 @@
 	"sites":[
               {
       "key": "豆瓣推荐",
-      "name": "豆瓣推荐｜公众号：天微科技 祝大家国庆快乐！",
+      "name": "豆瓣推荐｜祝大家国庆快乐！",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -97,7 +97,7 @@
       "name": "🐉┃玩偶-4K┃",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "https://gitee.com/tvkeji/jar/raw/master/CK/fty.jar",
+      "jar": "./fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -126,7 +126,7 @@
             "key": "csp_瓜子",
             "name": "🐉┃米瓜秒播┃",
             "api": "csp_Gz360",
-            "jar": "https://gitee.com/tvkeji/jar/raw/master/CK/xm.jar",
+            "jar": "./xm.jar",
             "type": 3,
             "searchable": 1,
             "playerType": 2,
@@ -142,7 +142,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"
+      "jar": "./0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"
     },
 {"key":"萌米","name":"🐉┃萌米秒播┃","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
             {
