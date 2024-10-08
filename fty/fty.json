@@ -3,7 +3,7 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆豆",
+      "key": "豆瓣",
       "name": "🅱豆瓣┃推荐",
       "type": 3,
       "api": "csp_DouDou",
@@ -585,17 +585,17 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
     {
-      "name": "IPTV4",
+      "name": "IPTV201",
       "type": 0,
-      "url": "./lib/tv.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvbox-ku/box/refs/heads/main/tv/IPTV201",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "IPV6",
+      "name": "IPTV202",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvbox-ku/box/refs/heads/main/tv/IPTV202",
       "playerType": 1
     }
   ]
