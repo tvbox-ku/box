@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "🅱豆瓣┃推荐",
+      "name": "豆瓣推荐",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -13,7 +13,7 @@
     },
     {
       "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "玩偶哥哥",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
