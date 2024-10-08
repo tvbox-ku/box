@@ -585,18 +585,20 @@
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
     {
-      "name": "LIVE",
+      "name": "LIVE01",
       "type": 0,
-      "url": "./fty/lib/tv.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvbox-ku/box/refs/heads/main/tv/IPTV201",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "IPV6",
+      "name": "LIVE02",
       "type": 0,
-      "url": "./fty/lib/ipv6.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvbox-ku/box/refs/heads/main/tv/IPTV202",
       "playerType": 1
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
   ]
 }
