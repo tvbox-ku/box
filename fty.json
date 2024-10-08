@@ -215,8 +215,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jp.js"
+      "api": "./fty/lib/drpy2.min.js",
+      "ext": "./fty/lib/jp.js"
     },
     {
       "key": "比特",
@@ -288,8 +288,8 @@
       "key": "88js",
       "name": "⚽ 88┃看球",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/88看球.js",
+      "api": "./fty/lib/drpy2.min.js",
+      "ext": "./fty/lib/88看球.js",
       "style": {
         "type": "list"
       },
@@ -301,8 +301,8 @@
       "key": "310js",
       "name": "⚽ 310┃看球",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/310直播.js",
+      "api": "./fty/lib/drpy2.min.js",
+      "ext": "./fty/lib/310直播.js",
       "style": {
         "type": "list"
       },
@@ -314,8 +314,8 @@
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jrk.js",
+      "api": "./fty/lib/drpy2.min.js",
+      "ext": "./fty/lib/jrk.js",
       "style": {
         "type": "list"
       },
@@ -334,14 +334,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/企鹅直播.json"
+      "ext": "./fty/lib/企鹅直播.json"
     },
     {
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/酷奇MV.js",
+      "api": "./fty/lib/drpy2.min.js",
+      "ext": "./fty/lib/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -362,14 +362,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/MTV.json"
+      "ext": "./fty/lib/MTV.json"
     },
     {
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/huya2.js",
+      "api": "./fty/lib/drpy2.min.js",
+      "ext": "./fty/lib/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -383,8 +383,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/斗鱼直播.js",
+      "api": "./fty/lib/drpy2.min.js",
+      "ext": "./fty/lib/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -398,8 +398,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/有声小说吧.js",
+      "api": "./fty/lib/drpy2.min.js",
+      "ext": "./fty/lib/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -425,8 +425,8 @@
       "key": "Sso",
       "name": "🐌盘他┃三盘",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/盘他.js",
+      "api": "./fty/lib/drpy2.min.js",
+      "ext": "./fty/lib/盘他.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
@@ -495,7 +495,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/bilibili.json"
+      "ext": "./fty/lib/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -509,14 +509,14 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/biliych.json"
+      "ext": "./fty/lib/biliych.json"
     },
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/兔小贝.js",
+      "api": "./fty/lib/drpy2.min.js",
+      "ext": "./fty/lib/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -537,7 +537,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/少儿教育.json"
+      "ext": "./fty/lib/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -551,7 +551,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/小学课堂.json"
+      "ext": "./fty/lib/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -565,7 +565,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/初中课堂.json"
+      "ext": "./fty/lib/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -579,7 +579,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/高中课堂.json"
+      "ext": "./fty/lib/高中课堂.json"
     }
   ],
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
@@ -587,7 +587,7 @@
     {
       "name": "LIVE",
       "type": 0,
-      "url": "./lib/tv.m3u",
+      "url": "./fty/lib/tv.m3u",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -595,7 +595,7 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "./fty/lib/ipv6.m3u",
       "playerType": 1
     }
   ]
