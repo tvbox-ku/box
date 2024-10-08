@@ -16,7 +16,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+     // "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
       "jar": "./fty.jar"
     },
 {"key": "csp_xBPQ_鸭奈飞","name":"鸭奈飞","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xBPQ/鸭奈飞.json"},
