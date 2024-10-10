@@ -13,6 +13,18 @@
       "filterable": 0
     },
     {
+        "key": "AList",
+        "name": "🐉┃飞龙网盘┃",
+        "type":3,
+        "api":"csp_AList",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ua": "okhttp/3.15",
+        "changeable":0,
+        "ext": "./lib/小雅.json"
+    },
+    {
             "ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4zLjEwMDo0NTY3IiwidG9rZW4iOiIifQ==",
             "filterable": 1,
             "quickSearch": 1,
