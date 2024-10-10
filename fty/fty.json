@@ -13,6 +13,30 @@
       "filterable": 0
     },
     {
+            "ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4zLjEwMDo0NTY3IiwidG9rZW4iOiIifQ==",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "丫仙女",
+            "changeable": 0,
+            "jar": "./spring.jar",
+            "api": "csp_XiaoYa",
+            "type": 3,
+            "key": "csp_XiaoYa",
+            "searchable": 1
+        },
+        {
+            "ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4zLjEwMDo0NTY3IiwidG9rZW4iOiIifQ==",
+            "filterable": 1,
+            "quickSearch": 1,
+            "name": "AList",
+            "changeable": 0,
+            "jar": "./spring.jar",
+            "api": "csp_AList",
+            "type": 3,
+            "key": "csp_AList",
+            "searchable": 1
+        },
+    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
