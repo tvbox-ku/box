@@ -1,14 +1,12 @@
 
- {/*所有资源均收集于网络大佬，如有侵权，请联系我立即处理",
- 需要本地包，请加入微信公众号:业余打发,
- "qq群已经满了，请关注公众号文章中qq频道二维码扫码进频道"*/  
+ {
  
  "spider": "./jar/fan.jar", 
  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
- "warningText": "接口完全免费，切勿付费购买。",
+ "warningText": "接口免费，切勿付费购买。",
  "lives": [
     {
-      "name": "影视",
+      "name": "live",
       "url": "./v.txt",
       "type": 0,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
