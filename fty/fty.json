@@ -25,6 +25,15 @@
         "ext": "./lib/小雅.json"
     },
     {
+      "key": "农民影视",
+      "name": "🇹┃理想影视┃秒播",
+      "type": 3,
+      "api": "csp_WexNmys",
+      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
             "ext": "eyJhcGkiOiJodHRwOi8vMTkyLjE2OC4zLjEwMDo0NTY3IiwidG9rZW4iOiIifQ==",
             "filterable": 1,
             "quickSearch": 1,
