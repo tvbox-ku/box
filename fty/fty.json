@@ -588,16 +588,10 @@
     {
       "name": "IPTV201",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvbox-ku/box/refs/heads/main/tv/IPTV201",
+      "url": "https%253A%252F%252Fmirror.ghproxy.com%252Fhttps%253A%252F%252Fraw.githubusercontent.com%252Ftvbox-ku%252Fbox%252Frefs%252Fheads%252Fmain%252Ftv%252FIPTV201",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "IPTV202",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvbox-ku/box/refs/heads/main/tv/IPTV202",
-      "playerType": 1
     }
   ]
 }
