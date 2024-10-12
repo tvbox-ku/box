@@ -25,6 +25,18 @@
         "ext": "./lib/小雅.json"
     },
     {
+            "key": "欢视",
+            "name": "👓欢视┃多线",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AO7TcBkd8IPB+BwH4Qma+opv",
+            "jar": "./fan.txt;md5;4e1010524e7057305efc75565c87ba0d"
+        },
+    {
       "key": "csp_LiteApple",
       "name": "H┃苹果影视┃蓝光",
       "type": 3,
