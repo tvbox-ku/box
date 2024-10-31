@@ -1,4 +1,5 @@
-港澳台频道,#genre#
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#港澳台频道
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="香港环球卫视" group-title="港澳台频道",香港环球卫视
