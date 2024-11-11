@@ -1,5 +1,14 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #港澳台频道
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线新闻.备用,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+华丽翡翠台.备用,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="香港环球卫视" group-title="港澳台频道",香港环球卫视
