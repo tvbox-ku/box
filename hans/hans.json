@@ -19,6 +19,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar":"./jar/pg.jar",
       "ext": "https://www.padmp4.com"
     },
     {
