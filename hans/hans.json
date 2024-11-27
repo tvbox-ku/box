@@ -21,7 +21,17 @@
       "playerType": 1,
       "filterable": 1
     },
-
+    {
+        "key": "csp_Kumao",
+        "name": "🐱 酷猫",
+        "type": 3,
+        "api": "csp_ColaCat",
+        "jar": "./jar/xm.jar",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "قط رائع"
+      },
 
 
 
