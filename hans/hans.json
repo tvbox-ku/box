@@ -12,6 +12,46 @@
       "filterable": 0
     },
      {
+      "key": "csp_LiteApple",
+      "name": "H┃苹果影视┃蓝光",
+      "type": 3,
+      "searchable": 1,
+      "api": "csp_LiteApple",
+      "jar": "./jar/xm.jar",
+      "playerType": 1,
+      "filterable": 1
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+     {
       "key": "木耳",
       "name": "🪴木耳H秒播",
       "type": 1,
