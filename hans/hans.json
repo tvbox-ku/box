@@ -11,15 +11,15 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "天天",
-      "name": "⛅️天天┃直连",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10
+   {
+     "key": "天天",
+     "name": "⛅️天天┃直连",
+     "type": 3,
+     "api": "csp_TianTian",
+     "searchable": 1,
+     "quickSearch": 1,
+     "changeable": 1,
+     "ext": "./jar/okjpg.txt"
     },
     {
       "key": "玩偶",
