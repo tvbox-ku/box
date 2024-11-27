@@ -11,18 +11,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-   {
-     "key": "天天",
-     "name": "⛅️天天┃直连",
-     "type": 3,
-     "api": "csp_TianTian",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0
-     "ext": {
-     "./jar/okjpg.txt",
-     "from": "4k|auto"
-    },
     {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
