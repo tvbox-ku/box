@@ -278,8 +278,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/jp.js"
     },
     {
       "key": "Auete",
@@ -355,8 +355,8 @@
       "key": "310js",
       "name": "⚽ 310┃看球",
       "type": 3,
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/310直播.js",
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/310直播.js",
       "style": {
         "type": "list"
       },
@@ -368,8 +368,8 @@
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/jrk.js",
       "style": {
         "type": "list"
       },
@@ -381,8 +381,8 @@
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js",
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -404,15 +404,15 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/MTV.json"
+        "json": "./js/MTV.json"
       }
     },
     {
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
+      "api": "./js/drpy2.js",
+      "ext": "./js/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -426,8 +426,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -441,8 +441,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js",
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -554,7 +554,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/bilibili.json"
+        "json": "./js/bilibili.json"
       }
     },
     {
@@ -570,15 +570,15 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/biliych.json"
+        "json": "./js/biliych.json"
       }
     },
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -600,7 +600,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/少儿教育.json"
+        "json": "./js/少儿教育.json"
       }
     },
     {
@@ -616,7 +616,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/小学课堂.json"
+        "json": "./js/小学课堂.json"
       }
     },
     {
@@ -632,7 +632,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/初中课堂.json"
+        "json": "./js/初中课堂.json"
       }
     },
     {
@@ -648,7 +648,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/高中课堂.json"
+        "json": "./js/高中课堂.json"
       }
     },
     {
