@@ -11,33 +11,38 @@
       "quickSearch": 0,
       "filterable": 0
     },
-     {
-      "key": "csp_LiteApple",
-      "name": "H┃苹果影视┃蓝光",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_LiteApple",
-      "jar": "./jar/xm.jar",
-      "playerType": 1,
-      "filterable": 1
-    },
-    {
-        "key": "csp_Kumao",
-        "name": "🐱 酷猫",
-        "type": 3,
-        "api": "csp_ColaCat",
-        "jar": "./jar/xm.jar",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "قط رائع"
-      },
+     
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 
 
 
