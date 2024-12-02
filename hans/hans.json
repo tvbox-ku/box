@@ -30,7 +30,7 @@
         "播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
         "播放列表": "<ul>&&</div>[包含:magnet]"
       },
-      "jar": "./jar/XBPQ.jar"
+      "jar": "./hans/jar/XBPQ.jar"
     }, 
 
 
