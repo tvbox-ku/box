@@ -92,7 +92,7 @@
       "name": "🟢┃天龙资源",
       "type": 1,
       "api": "https://www.82mao.com/api.php/provide/vod/",
-      "playUrl": "qiyi,mgtv,heimuer",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
