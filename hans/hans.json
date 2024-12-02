@@ -86,35 +86,20 @@
 
 
 
-{
-            "key": "82mao",
-            "name": "82mao",
-            "type": 1,
-            "api": "https://www.82mao.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "categories": [
-                "内地剧",
-                "韩剧",
-                "香港剧",
-                "台湾剧",
-                "欧美剧",
-                "日剧",
-                "马泰剧",
-                "动作片",
-                "科幻片",
-                "战争片",
-                "喜剧片",
-                "爱情片",
-                "恐怖片",
-                "犯罪片",
-                "剧情片",
-                "冒险片",
-                "伦理片"
-            ]
-        },
 
+	{
+      "key": "82mao",
+      "name": "🟢┃天龙资源",
+      "type": 1,
+      "api": "https://www.82mao.com/api.php/provide/vod/",
+      "playUrl": "qiyi,mgtv,heimuer",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧"
+      ]
+    },
 	{
       "key": "索尼",
       "name": "🛸┃索尼┃2K",
