@@ -44,28 +44,7 @@
         "搜索数组": "class=\"entry-media\">&&</div"
       }
     },
-	  
-    {
-      "key": "haokongbu",
-      "name": "好恐怖┃磁力",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/XBPQ.jar",
-      "ext": {
-        "搜索链接": "https://m.haokongbu.top/?cat=&s={wd}",
-        "简介": "◎简*介</p>&&</p>",
-        "线路数组": "entry-content u-text-format u-clearfix&&\"content-template",
-        "线路标题": "磁力",
-        "播放数组": "entry-content u-text-format u-clearfix&&content-template[不包含:网盘]",
-        "播放列表": "<p>&&</p>[包含:magnet]",
-        "分类": "国产剧$guochanju#港剧$gangju#动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#微电影$weidianying#记录片$m_jlp#高清$gaoqing#动漫$donghuapian#台湾$taiwanju#日本$riju#韩国$hanju#欧美$oumeiju#泰国$taiguoju#海外$haiwaiju",
-        "分类链接": "https://m.haokongbu.top/{cateId}/page/{catePg}",
-        "搜索数组": "class=\"entry-media\">&&</div"
-      }
-    },
+	
 
 
 
