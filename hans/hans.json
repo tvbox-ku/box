@@ -44,16 +44,16 @@
         "搜索数组": "class=\"entry-media\">&&</div"
       }
     },
-   {
-      "key": "brovod",
-      "name": "brovod",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.brovod.com/"
-    },
+	{      
+"key": "线",      
+"name": "线",      
+"type": 3,      
+"api": "csp_AppSx",      
+"searchable": 1,      
+"quickSearch": 1,      
+"changeable": 1,      
+"ext": "https://www.brovod.com"    
+},
 
 
 
