@@ -48,7 +48,9 @@
    {
 	"key":"兄弟",
 	"name":"🧿️兄弟┃影视",
-	"type":3,"api":"csp_XBPQ",
+	"type":3,
+	"api":"csp_XBPQ",
+	"playUrl": "",
 	"searchable":1,
 	"quickSearch":1,
 	"filterable":1,
