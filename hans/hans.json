@@ -44,27 +44,15 @@
         "搜索数组": "class=\"entry-media\">&&</div"
       }
     },
-
- {
-      "key": "兄弟",
-      "name": "🧿️兄弟┃影视",
+   {
+      "key": "新6V",
+      "name": "brovod",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_SixV",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/XBPQ.jar",
-      "ext": {
-        "搜索链接": "https://www.brovod.com/?cat=&s={wd}",
-        "简介": "◎简*介</p>&&</p>",
-        "线路数组": "entry-content u-text-format u-clearfix&&\"content-template",
-        "线路标题": "磁力",
-        "播放数组": "entry-content u-text-format u-clearfix&&content-template[不包含:网盘]",
-        "播放列表": "<p>&&</p>[包含:magnet]",
-        "分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录片$5#短剧$6",
-        "分类链接": "https://www.brovod.com/{cateId}/page/{catePg}",
-        "搜索数组": "class=\"entry-media\">&&</div"
-      }
+      "changeable": 0,
+      "ext": "https://www.brovod.com/"
     },
 
 
