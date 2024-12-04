@@ -50,7 +50,6 @@
 	"name":"🧿️兄弟┃影视",
 	"type":3,
 	"api":"csp_XBPQ",
-	"playUrl": "",
 	"searchable":1,
 	"quickSearch":1,
 	"filterable":1,
@@ -62,6 +61,7 @@
 		"影片状态":"备注：&&</div>",
 		"影片类型":"module-info-tag\">&&立即播放",
 		"线路数组":"data-dropdown-value=&&</div>",
+		"播放列表": "<p>&&</p>[包含:magnet]",
 		"线路标题":"<span>&&</span>",
 		"分类url":"https://www.brovod.com/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
 		"分类":"电影$1#剧集$2#动漫$4#综艺$3#纪录片$5#短剧$6"}
