@@ -89,7 +89,7 @@
 
 	{
       		"key": "82mao",
-      		"name": "🟢┃天龙资源",
+      		"name": "✨┃82猫",
       		"type": 1,
       		"api": "https://www.82mao.com/api.php/provide/vod/",
       		"playUrl": "",
@@ -101,7 +101,7 @@
 	},
 	{
      	 	"key": "索尼",
-      		"name": "🛸┃索尼┃2K",
+      		"name": "✨┃索尼",
       		"type": 1,
      	 	"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       		"playUrl": "",
@@ -113,7 +113,7 @@
     	},
 	{
             	"key": "火狐",
-            	"name": "🔥火狐采集",
+            	"name": "✨┃火狐",
             	"type": 1,
             	"api": "https://hhzyapi.com/api.php/provide/vod/",
             	"searchable": 1,
@@ -124,7 +124,7 @@
         },
 	{
 		"key": "csp_非凡资源",
-		"name": "💎非凡采集",
+		"name": "✨┃非凡",
 		"type": 1,
 		"api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8",
 		"playUrl": "json:http://118.25.184.129:9668/?url=",
@@ -135,7 +135,7 @@
 	},
 	{
 		"key": "csp_xml_ikun",
-		"name": "🆖ikun",
+		"name": "✨┃ikun",
 		"type": 1,
 		"api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
 		"searchable": 1,
@@ -149,7 +149,7 @@
 	},
 	{
 		"key": "卧龙资源",
-		"name": "🐉卧龙",
+		"name": "✨┃卧龙",
 		"type": 1,
 		"api": "https://collect.wolongzyw.com/api.php/provide/vod/",
 		"searchable": 1,
@@ -163,7 +163,7 @@
 	},
 	{
 		"key": "csp_xml_暴风",
-		"name": "🌊暴风",
+		"name": "✨┃暴风",
 		"type": 1,
 		"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
 		"searchable": 1,
@@ -175,7 +175,7 @@
 	},
 	{
 		"key": "csp_xml_红牛",
-		"name": "🐮红牛",
+		"name": "✨┃红牛",
 		"type": 1,
 		"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
 		"searchable": 1,
@@ -188,7 +188,7 @@
 	},
    	{
 		"key": "csp_xml_天空",
-		"name": "🌞天空",
+		"name": "✨┃天空",
 		"type": 1,
 		"api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
 		"searchable": 1,
@@ -200,7 +200,7 @@
 	},
         {
       		"key": "木耳",
-     		"name": "🪴木耳H秒播",
+     		"name": "✨┃木耳",
      		"type": 1,
      		"api": "https://json02.heimuer.xyz/api.php/provide/vod",
     		"searchable": 1,
