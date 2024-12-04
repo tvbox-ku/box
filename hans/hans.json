@@ -45,28 +45,32 @@
       }
     },
 
-   {
-	"key":"兄弟",
-	"name":"🧿️兄弟┃影视",
-	"type":3,
-	"api":"csp_XBPQ",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1,
-	"jar": "./jar/XBPQ.jar",
-	"ext":{
-		"嗅探词":".m3u8?#sns-creator-preview.xhscdn.com#.m3u8#47.96.255.149#v3-cold-src.toutiaovod.com#38.61.5.6:11301#tvcms.aikanhd.vip#.mp4",
-		"过滤词":"/dmku.brovod.top/#xdad.m3u8",
-		"影片年代":"<divclass=\"module-info-tag\">&&</div>",
-		"影片状态":"备注：&&</div>",
-		"影片类型":"module-info-tag\">&&立即播放",
-		"线路数组":"data-dropdown-value=&&</div>",
-		"播放列表": "<p>&&</p>[包含:magnet]",
-		"线路标题":"<span>&&</span>",
-		"分类url":"https://www.brovod.com/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-		"分类":"电影$1#剧集$2#动漫$4#综艺$3#纪录片$5#短剧$6"}
-   },
+ {
+      "key": "兄弟",
+      "name": "🧿️兄弟┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.jar",
+      "ext": {
+        "搜索链接": "https://www.brovod.com/?cat=&s={wd}",
+        "简介": "◎简*介</p>&&</p>",
+        "线路数组": "entry-content u-text-format u-clearfix&&\"content-template",
+        "线路标题": "磁力",
+        "播放数组": "entry-content u-text-format u-clearfix&&content-template[不包含:网盘]",
+        "播放列表": "<p>&&</p>[包含:magnet]",
+        "分类": "电影$1#剧集$2#动漫$4#综艺$3#纪录片$5#短剧$6",
+        "分类链接": "https://www.brovod.com/{cateId}/page/{catePg}",
+        "搜索数组": "class=\"entry-media\">&&</div"
+      }
+    },
 
+
+	  
+
+   
 
 
 
