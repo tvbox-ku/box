@@ -86,7 +86,16 @@
 
 
 
-
+	  {
+      		"key": "csp_SeedHub",
+      		"name": "🧲SeedHub",
+      		"type": 3,
+      		"api": "csp_SeedHub",
+      		"searchable": 1,
+      		"quickSearch": 1,
+      		"filterable": 1,
+      		"ext": "https://www.seedhub.cc"
+    	},
 	{
       		"key": "82mao",
       		"name": "✨┃82猫",
