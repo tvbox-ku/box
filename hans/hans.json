@@ -45,20 +45,15 @@
       }
     },
    {
-      "key": "新6V",
+      "key": "brovod",
       "name": "brovod",
       "type": 3,
-      "api": "csp_SixV",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.brovod.com/"
     },
-
-
-	  
-
-   
 
 
 
