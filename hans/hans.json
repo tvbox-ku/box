@@ -110,43 +110,6 @@
       },
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
 	 {
       "key": "豪华资源",
       "name": "🎥┃豪华┃资源",
@@ -898,47 +861,13 @@
   ],
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "lives": [
-    {
-      "name": "港澳台",
-      "type": 0,
-      "url": "http://aktv.top/live.m3u",
-      "playerType": 1,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
+  
       {
-      "name": "hans",
+      "name": "IPTV",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvbox-ku/box/refs/heads/main/tv/ipv6",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/tvbox-ku/box/refs/heads/main/tv/IPV6",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "IPV4",
-      "type": 0,
-      "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-     {
-      "name": "result",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/tvbox-ku/TV/refs/heads/master/output/result.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-    {
-      "name": "IPV6①",
-      "type": 0,
-      "url": "https://ghp.ci/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
-      "playerType": 1
-    },
-    {
-      "name": "IPV6②",
-      "type": 0,
-      "url": "https://ghp.ci/raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u",
-      "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
   ]
