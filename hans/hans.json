@@ -44,7 +44,70 @@
         "搜索数组": "class=\"entry-media\">&&</div"
       }
     },
+	{
+            "key": "腐剧",
+            "name": "腐剧",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://www.fuju2024.cc:8013/ruifenglb_api.php/v1.vod"
+        },
 
+        {
+            "key": "drpy_js_NY影院",
+            "name": "NY影院[js]",
+            "type": 3,
+            "api": "https://www.100km.top/lib/drpy2.min.js",
+            "ext": "https://www.100km.top/js/NY影院.js"
+        },
+        {
+            "key": "drpy_js_楚门影院",
+            "name": "楚门影院[js]",
+            "type": 3,
+            "api": "https://www.100km.top/lib/drpy2.min.js",
+            "ext": "https://www.100km.top/js/楚门影院.js"
+        },
+        {
+            "key": "drpy_js_B站影视",
+            "name": "B站影视[js]",
+            "type": 3,
+            "api": "https://www.100km.top/lib/drpy2.min.js",
+            "ext": "https://www.100km.top/js/B站影视.js"
+        },
+        {
+            "key": "drpy_js_139影视",
+            "name": "139影视[js]",
+            "type": 3,
+            "api": "https://www.100km.top/lib/drpy2.min.js",
+            "ext": "https://www.100km.top/js/139影视.js"
+        },
+        {
+            "key": "drpy_js_奇米动漫",
+            "name": "奇米动漫[js]",
+            "type": 3,
+            "api": "https://www.100km.top/lib/drpy2.min.js",
+            "ext": "https://www.100km.top/js/奇米动漫.js"
+        },
+        {
+            "key": "drpy_js_NT动漫",
+            "name": "NT动漫[js]",
+            "type": 3,
+            "api": "https://www.100km.top/lib/drpy2.min.js",
+            "ext": "https://www.100km.top/js/NT动漫.js"
+        },
+	{"key":"gszy",
+     "name":"🎥┃光速┃资源", 
+    "type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/",
+    "searchable": 1,"filterable": 0,"categories": ["欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]
+        },
+
+       {"key":"lzzy",
+    "name": "🎥┃量子┃资源",
+    "type": 1,"api":"https://cj.lziapi.com/api.php/provide/vod/",
+    "searchable": 1,"filterable": 0,"categories": ["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]
+      },
 
 
 
