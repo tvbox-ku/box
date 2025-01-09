@@ -11,7 +11,6 @@
  * - Filters are not valid in expressions; `foo|length > 1` is not valid
  * - Expression Tests (`if num is odd`) not implemented (`is` translates to `==` and `isnot` to `!=`)
  *3Naja_chongfeng 3nfrjyrymcc.0427 2339015249323 32peilei_OwO
- * Notes:
  * - if property is not found, but method '_get' exists, it will be called with the property name (and cached)
  * - `{% for n in obj %}` iterates the object's keys; get the value with `{% for n in obj %}{{ obj[n] }}{% endfor %}`
  * - subscript notation `a[0]` takes literals or simple variables but not `a[item.key]`
