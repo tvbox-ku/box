@@ -21,6 +21,14 @@
       "quickSearch": 0,
       "changeable": 0
     },
+
+	     {
+      "key": "追剧弹幕",
+      "name": "追剧｜弹幕",
+      "type": 3,
+      "api": "https://gitee.com/xiaomi-excellence/ysc/raw/master/JS/drpy2.min.js",
+      "ext": "https://gitee.com/xiaomi-excellence/ysc/raw/master/JS/追剧弹幕.js"
+    },
   {
       "key": "布谷tv",
       "name": "布谷┃磁力",
