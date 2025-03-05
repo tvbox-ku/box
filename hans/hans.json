@@ -21,14 +21,6 @@
       "quickSearch": 0,
       "changeable": 0
     },
-{"key":"现代","name":"🔥现代｜影视","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="},
-{"key":"蝴蝶","name":"🔥蝴蝶｜影视","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w"},
-{"key":"荐片","name":"🔥荐片｜影视","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"雨滴","name":"🔥雨滴｜影视","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="},
-{"key":"米电影","name":"🔥电影｜影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_MovieApp"},
-{"key":"热播弹幕","name":"🔥热播｜弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YucmJvdHYuY24="}},
-{"key":"浪酷弹幕","name":"🔥浪酷｜弹幕","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true,"site":"aHR0cDovL3YubGt1eXMuY24="}},
-	  
   {
       "key": "布谷tv",
       "name": "布谷┃磁力",
