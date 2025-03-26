@@ -18,7 +18,7 @@ var  rule={
             limit: 6,
             推荐: '.indexShowBox;ul&&li;a&&title;img&&data-src;.icon-play&&Text;a&&href',
             double: true, // 推荐内容是否双层定位
-            一级: 'body a.module-poster-item.module-item;a&&title;.lazyload&&data-original;.module-item-note&&Text;a&&href',
+            一级: 'pic-list&&li;a&&title;img&&data-src;.icon-play&&Text;a&&href;a&&href',
             二级: {
                 "title": "h1&&Text;.module-info-tag&&Text",
                 "img": ".lazyload&&data-original",
