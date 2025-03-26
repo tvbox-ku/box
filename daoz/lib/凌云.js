@@ -11,7 +11,7 @@ var  rule={
                 'User-Agent': 'MOBILE_UA',
                 // "Cookie": "searchneed=ok"
             },
-            class_parse: '.menu_bottom&&ul&&li;a&&Text;a&&href;/(\\d+).html',
+            class_parse: '.menu_bottom ul li;a&&Text;a&&href;.*/(.*?).html',
             class_exclude:'解析|动态',
             play_parse: true,
             lazy: '',
