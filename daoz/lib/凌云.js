@@ -27,5 +27,5 @@ var  rule={
                 "tabs": ".py-tabs&&option",
                 "lists": ".player:eq(#id) a"
             },
-            搜索: 'body .module-item;.module-card-item-title&&Text;.lazyload&&data-original;.module-item-note&&Text;a&&href;.module-info-item-content&&Text',
+            搜索: '.sr_lists&&ul&&li;h3&&Text;img&&data-src;int&&p:eq(0)&&Text;a&&href',
         }
