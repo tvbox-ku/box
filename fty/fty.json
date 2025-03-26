@@ -3,6 +3,19 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "warningText": "接口完全免费，请勿付费购买。",
   "sites": [
+     {
+      "key": "凌云",
+      "name": "凌云影视",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/凌云.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 2,
+      "quickSearch": 0,
+      "changeable": 0
+    },
     {
       "key": "豆瓣",
       "name": "🅱豆瓣┃推荐",
