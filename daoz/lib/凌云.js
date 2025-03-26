@@ -12,7 +12,7 @@ var  rule={
                 // "Cookie": "searchneed=ok"
             },
             class_parse: '.menu_bottom ul li;a&&Text;a&&href;.*/(.*?).html',
-            class_exclude:'解析|动态',
+            cate_exclude:'解析|动态',
             play_parse: true,
             lazy: '',
             limit: 6,
