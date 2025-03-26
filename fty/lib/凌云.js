@@ -11,21 +11,21 @@ var  rule={
                 'User-Agent': 'MOBILE_UA',
                 // "Cookie": "searchneed=ok"
             },
-            class_parse: '.menu_bottom&&ul&&li;a&&Text;a&&href;/(\\d+).html',
-            class_exclude:'解析|动态',
+            class_parse: '.menu_bottom ul li;a&&Text;a&&href;.*/(.*?).html',
+            cate_exclude:'解析|动态',
             play_parse: true,
             lazy: '',
             limit: 6,
-            推荐: '.indexShowBox;ul&&li;a&&title;img&&data-src;.icon-play&&Text;a&&href',
+            推荐: '.indexShowBox;ul&&li;a&&title;img&&data-src;.s1&&Text;a&&href',
             double: true, // 推荐内容是否双层定位
-            一级: 'body a.module-poster-item.module-item;a&&title;.lazyload&&data-original;.module-item-note&&Text;a&&href',
+            一级: 'pic-list&&li;a&&title;img&&data-src;.s1&&Text;a&&href',
             二级: {
-                "title": "h1&&Text;.module-info-tag&&Text",
-                "img": ".lazyload&&data-original",
-                "desc": ".module-info-item:eq(1)&&Text;.module-info-item:eq(2)&&Text;.module-info-item:eq(3)&&Text",
-                "content": ".module-info-introduction&&Text",
-                "tabs": ".module-tab-item",
-                "lists": ".module-play-list:eq(#id) a"
+                "title": "h1&&Text;.content-rt&&p:eq(0)&&Text",
+                "img": ".img&&img&&data-src",
+                "desc": ".content-rt&&p:eq(1)&&Text;.content-rt&&p:eq(2)&&Text;.content-rt&&p:eq(3)&&Text;.content-rt&&p:eq(4)&&Text;.content-rt&&p:eq(5)&&Text",
+                "content": ".zkjj_a&&Text",
+                "tabs": ".py-tabs&&option",
+                "lists": ".player:eq(#id) a"
             },
-            搜索: 'body .module-item;.module-card-item-title&&Text;.lazyload&&data-original;.module-item-note&&Text;a&&href;.module-info-item-content&&Text',
+            搜索: '.sr_lists&&ul&&li;h3&&Text;img&&data-src;int&&p:eq(0)&&Text;a&&href',
         }
