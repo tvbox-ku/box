@@ -204,7 +204,7 @@
     },
     {
       "key": "hipy_js_4k剧院",
-      "name": "4k剧院(drpy_t3)",
+      "name": "凌云影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
