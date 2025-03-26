@@ -5,7 +5,7 @@
   "spider": "./lib/pg.jar",
   "sites": [
     {
-      "key": "lngyun",
+      "key": "凌云",
       "name": "凌云",
       "type": 3,
       "api": "./lib/drpy2.min.js",
