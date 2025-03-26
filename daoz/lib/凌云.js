@@ -16,9 +16,9 @@ var  rule={
             play_parse: true,
             lazy: '',
             limit: 6,
-            推荐: '.indexShowBox;ul&&li;a&&title;img&&data-src;.icon-play&&Text;a&&href',
+            推荐: '.indexShowBox;ul&&li;a&&title;img&&data-src;.s1&&Text;a&&href',
             double: true, // 推荐内容是否双层定位
-            一级: 'pic-list&&li;a&&title;img&&data-src;.icon-play&&Text;a&&href;a&&href',
+            一级: 'pic-list&&li;a&&title;img&&data-src;.s1&&Text;a&&href',
             二级: {
                 "title": "h1&&Text;.module-info-tag&&Text",
                 "img": ".lazyload&&data-original",
