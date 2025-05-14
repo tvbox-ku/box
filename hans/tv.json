@@ -1,6 +1,27 @@
 {
     "lives": [
         {
+            "name": "iptv4①",
+            "type": 0,
+            "url": "https://www.gitproxy.click/https://github.com/Guovin/iptv-api/blob/gd/output/ipv4/result.txt",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "iptv6①",
+            "type": 0,
+            "url": "https://www.gitproxy.click/https://github.com/Guovin/iptv-api/blob/gd/output/ipv6/result.txt",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "result",
+            "type": 0,
+            "url": "https://www.gitproxy.click/https://github.com/Guovin/iptv-api/blob/gd/output/result.txt",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
             "name": "*家用TV*",
             "type": 0,
             "url": "https://gitee.com/ymxuit109/TV000/raw/master/ipv",
