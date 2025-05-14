@@ -1,0 +1,79 @@
+{
+    "lives": [
+        {
+            "name": "*家用TV*",
+            "type": 0,
+            "url": "https://gitee.com/ymxuit109/TV000/raw/master/ipv",
+            "playerType": 1,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "*fmm*",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "*猫TV*",
+            "type": 0,
+            "url": "http://rihou.cc:567/gggg.nzk",
+            "playerType": 1
+        },
+        {
+            "name": "*YueChan*",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "*suxuang*",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "*看电视*",
+            "type": 0,
+            "url": "http://tvbox6.icu/live.txt",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "*Guovin*",
+            "type": 0,
+            "url": "https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "*kilvn*",
+            "type": 0,
+            "url": "https://live.kilvn.com/iptv.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "*lixiao*",
+            "type": 0,
+            "url": "https://portrait.gitee.com/lixiao-1-98/iptv/raw/master/ipv4.txt",
+            "playerType": 1
+        },
+        {
+            "name": "🎦电影",
+            "type": 0,
+            "url": "https://gitee.com/hans89/box/raw/master/duoc/dianying",
+            "playerType": 1
+        }
+    ],
+    "sites": [
+        {
+            "key": "豆瓣",
+            "name": "豆瓣",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        }
+    ]
+}
